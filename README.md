@@ -1,10 +1,4 @@
-
-<h2 align="center">
-
-  
-<p align="center">
-  
-<h2 align="center">GitHub Stastictics, i guess 💀</h2>
+  <h2 align="center">GitHub Stastictics, i guess 💀</h2>
 
 <p align="center">
     <a href="https://github.com/ItLooksSad">
@@ -17,9 +11,6 @@
 <h2 align="center">  
 	<img title="ItLooksSad stats" alt="ItLooksSad's streak" src="https://github-profile-trophy.vercel.app/?username=ItLooksSad&column=8&margin-w=20&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed"/>
 
-<p align="center">
-  
-
 <h2 align="center">Discord profile init</h2><br>
   <p align="center">
     <a href="https://discord.gg/Zvut5jtCDz">
@@ -27,15 +18,11 @@
     </a>
 </p>
   
-
 <p align="center">
     <a href="https://discord.gg/MBTkVcJefp">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-KING VDM%234826-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/ItLooksSad">
    <img alt="Github" src="https://img.shields.io/github/followers/ItLooksSad?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-  
- 
-
 </p>
 
 <div align='center'>
