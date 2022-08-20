@@ -19,7 +19,7 @@
 </p>
   
 <p align="center">
-    <a href="https://discord.gg/MBTkVcJefp">
+    <a href="https://discord.gg/Zvut5jtCDz">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-KING VDM%234826-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
   <a href="https://github.com/ItLooksSad">
    <img alt="Github" src="https://img.shields.io/github/followers/ItLooksSad?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
