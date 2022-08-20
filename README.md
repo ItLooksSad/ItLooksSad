@@ -1,4 +1,4 @@
-  <h2 align="center">GitHub Stastictics, i guess 💀</h2>
+  <h2 align="center">GitHub Statistics, i guess 💀</h2>
 
 <p align="center">
     <a href="https://github.com/ItLooksSad">
